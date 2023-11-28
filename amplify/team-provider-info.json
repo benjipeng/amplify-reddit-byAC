@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-acredditclone-dev-121440-authRole",
+      "UnauthRoleArn": "arn:aws:iam::262817777762:role/amplify-acredditclone-dev-121440-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::262817777762:role/amplify-acredditclone-dev-121440-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-acredditclone-dev-121440-deployment",
+      "UnauthRoleName": "amplify-acredditclone-dev-121440-unauthRole",
+      "StackName": "amplify-acredditclone-dev-121440",
+      "StackId": "arn:aws:cloudformation:us-east-1:262817777762:stack/amplify-acredditclone-dev-121440/9ec25c30-8e11-11ee-8702-0a25072a5e0f",
+      "AmplifyAppId": "dd936cjnjyzk6"
+    }
+  }
+}
